@@ -1,5 +1,7 @@
 package br.com.servlet.teste;
 
+import static org.junit.Assert.*;
+
 public class TestaAlgunsMetodos {
 	public static void main(String[] args) {
 	     // criando a conta
@@ -19,3 +21,4 @@ public class TestaAlgunsMetodos {
 	   }
 	
 }
+

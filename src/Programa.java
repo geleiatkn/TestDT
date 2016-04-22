@@ -4,7 +4,7 @@ class Programa {
 	    minhaConta = new Conta();
 
 	    minhaConta.dono = "Duke";
-	    minhaConta.saldo = 1000.0;
+	    minhaConta.saldo = 1050.0;
 
 	    System.out.println("Saldo atual: " + minhaConta.saldo);
 	  }
